@@ -7,4 +7,4 @@ model = YOLO("yolov8n.yaml")
 
 
 #Train the model
-results = model.train(data="config.yaml", epochs=30, imgsz=640, batch=16)
+results = model.train(data="config.yaml", epochs=85, imgsz=640, batch=16)
