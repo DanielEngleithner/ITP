@@ -1,6 +1,9 @@
-train: C:/Users/dengl/OneDrive/Dokumente/HTL/5. Klasse/ITP/Projekt/Assets/Annotated-Paper-Plastic/images/train
-val: C:/Users/dengl/OneDrive/Dokumente/HTL/5. Klasse/ITP/Projekt/Assets/Annotated-Paper-Plastic/images/val
+#wurde umgeändert für ITP glass paper !!!
+
+
+train: C:/Users/dengl/OneDrive/Dokumente/HTL/5. Klasse/ITP/Projekt/Assets/Annotated-Glass-Paper/images/train
+val: C:/Users/dengl/OneDrive/Dokumente/HTL/5. Klasse/ITP/Projekt/Assets/Annotated-Glass-Paper/images/val
 
 names:
-  0: plastic
-  1: paper
+  0: paper
+  1: glass
